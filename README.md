@@ -25,5 +25,7 @@ We evaluate this approach on CIFAR-10 diffusion generation under W8A8 and W4A8 q
 ```text
 .
 ├── README.md
-├── Spectral Grouping and Drift Correction for Diffusion Model Quantization.pdf
-└── ptq_diffusion_dl_final.ipynb
+├── PTQ Diffusion Survey.pdf
+├── Spectral Grouping and Drift Correction for Diffusion Models.pdf
+├── ptq_diffusion_dl_final_notebook.ipynb
+└── Q_diffusion_cifar10.ipynb
